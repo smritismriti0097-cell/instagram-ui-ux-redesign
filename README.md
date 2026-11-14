@@ -35,8 +35,6 @@ This is a focused redesign of four selected Instagram screens, not a complete re
 ## Prototype
 Figma Prototype: https://www.figma.com/design/ugrV9HI4m635o7gQ0rPW5a/Week-5?t=GrqLha48kpB6PF9M-0
 
-## Project Report
-The detailed project evaluation and redesign report is included in this repository.
 
 ## Disclaimer
 This is an independent educational UI/UX design project. It is not affiliated with or endorsed by Instagram or Meta.
